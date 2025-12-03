@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.mp4
+*.avi
+*.cine
+OUTPUT/
+
+# IDE + editor
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
